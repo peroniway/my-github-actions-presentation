@@ -24,8 +24,8 @@ on:
         type: choice
         options:
           - New York
-          - Seattle
-          - Tupelo
+          - London
+          - Paris
       fav-color-blue:
         description: "Is your favorite color blue"
         required: true
